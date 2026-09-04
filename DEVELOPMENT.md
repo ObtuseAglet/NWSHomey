@@ -7,7 +7,7 @@ This basic Homey app has been successfully set up following the Homey App SDK gu
 ### What's Included
 
 1. **App Manifest** (`.homeycompose/app.json`)
-   - App ID: `com.obtuseaglet.nws`
+   - App ID: `org.grdrs.nws`
    - SDK version: 3
    - Platforms: local and cloud
    - Category: climate
